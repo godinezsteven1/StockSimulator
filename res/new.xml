@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><portfolio>
+    
+  <portfolioName>new</portfolioName>
+    
+  <stocks>
+    <stock>
+      <ticker>GOOG</ticker>
+      <date>2024-06-03</date>
+      <close-price>174.42</close-price>
+      <Amount-of-stock>42.0</Amount-of-stock>
+    </stock>
+  </stocks>
+  
+</portfolio>
